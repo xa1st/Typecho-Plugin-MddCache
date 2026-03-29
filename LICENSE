@@ -1,0 +1,77 @@
+Mulan Permissive Software License, Version 2 (Mulan PSL v2)
+木兰宽松许可证, 第2版
+
+Mulan PSL v2 is released in both Chinese and English languages. In case of any discrepancy between the Chinese and English versions, the Chinese version shall prevail.
+《木兰宽松许可证》第2版中英文版本同时发布。如果中英文版本存在不一致，以中文版本为准。
+
+Copyright (c) 2026 猫东东(Alex Xu).
+All rights reserved.
+
+Software Name: MddCache
+软件名称：猫缓存
+
+-------------------------------------------------------------------------------------------
+
+Mulan Permissive Software License，Version 2
+
+Mulan Permissive Software License，Version 2 (Mulan PSL v2)
+January 2020 http://license.coscl.org.cn/MulanPSL2
+
+Your reproduction, use, modification and distribution of the Software shall be subject to Mulan PSL v2 (the “License”); you may obtain a copy of the License at:
+http://license.coscl.org.cn/MulanPSL2
+
+YOU MAY REPRODUCE, USE, MODIFY AND DISTRIBUTE THE SOFTWARE UNDER THE CONDITION OF COMPLYING WITH THE TERMS AND CONDITIONS OF THE LICENSE.
+
+1. Definition
+“Software” means the software as well as the relevant documentation (if any) that are made available to you under the License.
+“Contributor” means each individual or legal entity that modifies the Software and provides the modification back to the Software.
+“You” (or “Your”) means an individual or a legal entity exercising the rights granted by the License.
+
+2. Grant of Copyright License
+Subject to the terms and conditions of the License, each Contributor hereby grants to You a perpetual, worldwide, royalty-free, non-exclusive, irrevocable copyright license to reproduce, use, modify, or distribute the Software, with or without modification.
+
+3. Grant of Patent License
+Subject to the terms and conditions of the License, each Contributor hereby grants to You a perpetual, worldwide, royalty-free, non-exclusive, irrevocable (except for as stated in this section) patent license to make, have made, use, offer for sale, sell, import or otherwise transfer the Software, where such license applies only to those patent claims licensable by such Contributor that are necessarily infringed by their contribution(s) alone or by combination of their contribution(s) with the Software. If You institute patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Software or a contribution incorporated within the Software constitutes direct or contributory patent infringement, then any patent licenses granted to You under the License for that Software shall terminate as of the date such litigation is filed.
+
+4. No Warranty and Liability Limitation
+THE SOFTWARE IS PROVIDED ON AN “AS IS” BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE. EACH CONTRIBUTOR OR COPYRIGHT HOLDER SHALL NOT BE LIABLE TO YOU FOR ANY DAMAGES, INCLUDING ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES ARISING FROM THE USE OR INABILITY TO USE THE SOFTWARE.
+
+5. Miscellaneous
+5.1 You shall include a copy of the License and the copyright notice for the Software in each copy of the Software that You reproduce, use, modify or distribute.
+5.2 You shall not use any trademark, service mark, logo and name of any Contributor, except for as reasonably required to describe the origin of the Software or its contribution.
+5.3 Mulan PSL v2 is released in both Chinese and English languages. In case of any discrepancy between the Chinese and English versions, the Chinese version shall prevail.
+5.4 To the extent allowed by law, the License shall be governed by and interpreted in accordance with the laws of the People’s Republic of China.
+
+-------------------------------------------------------------------------------------------
+
+木兰宽松许可证，第2版
+
+2020年1月 http://license.coscl.org.cn/MulanPSL2
+
+您对“软件”的复制、使用、修改及分发受本许可证（“许可证”）的约束。您可以从以下地址获取“许可证”的一个副本：
+http://license.coscl.org.cn/MulanPSL2
+
+您在遵守“许可证”条款和条件的前提下，可以复制、使用、修改及分发“软件”。
+
+1. 定义
+“软件”指在本“许可证”下向您提供的软件及相关文档（如有）。
+“贡献者”指修改“软件”并将该修改提供给“软件”的自然人或法人。
+“您”指行使本“许可证”规定的权利的自然人或法人。
+
+2. 著作权许可
+在遵守本“许可证”条款和条件的前提下，每个“贡献者”在此授予您永久性的、全球性的、免费的、非独占的、不可撤销的著作权许可，您可以复制、使用、修改及分发“软件”，无论修改与否。
+
+3. 专利许可
+在遵守本“许可证”条款和条件的前提下，每个“贡献者”在此授予您永久性的、全球性的、免费的、非独占的、不可撤销的（本条约定的终止情形除外）专利许可，供您制造、委托制造、使用、许诺销售、销售、进口及其它方式转移“软件”。前述专利许可仅限于“贡献者”现在或将来拥有的、其向“软件”提供的贡献本身或该贡献与“软件”结合时必然侵犯的专利权利要求。如果您直接或间接地对任何人提起专利诉讼（包括反诉或交叉诉讼），宣称“软件”或其包含的贡献侵犯了您的专利，则本“许可证”授予您的专利许可自您提起诉讼之日起终止。
+
+4. 免责声明与责任限制
+“软件”在提供时“按现状”基础提供，不附有任何形式的明示或暗示的保证或条件，包括但不限于关于所有权、非侵权、适销性及特定用途适用性的保证或条件。在任何情况下，“贡献者”或版权持有人不对因使用或不能使用“软件”而产生的任何直接、间接、特殊、意外或惩罚性损害赔偿承担责任。
+
+5. 其他
+5.1 您在复制、使用、修改及分发“软件”时，必须保留本“许可证”的副本，并保留“软件”中的版权声明。
+5.2 您不得使用“贡献者”的商标、服务标记、Logo或名称，但为了说明“软件”或贡献来源的合理使用除外。
+5.3 《木兰宽松许可证》第2版中英文版本同时发布。如果中英文版本存在不一致，以中文版本为准。
+5.4 在法律允许的范围内，本“许可证”受中华人民共和国法律管辖，并依其解释。
+
+END OF TERMS AND CONDITIONS
+条款和条件至此结束
